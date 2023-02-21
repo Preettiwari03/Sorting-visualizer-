@@ -1,2 +1,2 @@
-# Sorting-visualizer-
-I develoved this sorting visualizer using html,css and java script.
+# Sorting-visualizer
+I developed this sorting visualizer using html,css and java script.
