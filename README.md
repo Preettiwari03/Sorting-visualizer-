@@ -1,2 +1,2 @@
 # Sorting-visualizer-
-The “Sorting Visualiser”  is basically a web development project which is used to visualize the sorting algorithms and performs the operation of algorithms step by step
+I develoved this sorting visualizer using html,css and java script.
